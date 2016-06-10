@@ -1,2 +1,3 @@
 # paja
-fan site for pajlada
+A fan site for pajlada
+http://th0mk.github.io/paja/
